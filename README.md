@@ -85,26 +85,6 @@ Customers ──── Orders ──── Order_Items
 
 ---
 
-## 🛠️ How to Use
-
-1. Download the `.pbix` file from this repository
-2. Open with **Power BI Desktop** (free download from Microsoft)
-3. The dataset is embedded — no additional setup required
-4. Use the **Year** slicer to filter by specific years
-5. Use the **Order Status** slicer to focus on specific order categories
-
----
-
-## 📁 Repository Structure
-
-```
-├── Olist_PowerBI_Dashboard.pbix    # Power BI dashboard file
-├── README.md                       # Project documentation
-└── screenshots/
-    └── dashboard_preview.png       # Dashboard screenshot
-```
-
----
 
 ## 🔗 Connect With Me
 
