@@ -90,3 +90,11 @@ Customers ──── Orders ──── Order_Items
 
 - **LinkedIn:** [linkedin.com/in/davidojenabor](https://linkedin.com/in/davidojenabor)
 - **GitHub:** [github.com/Davidojenabor](https://github.com/Davidojenabor)
+
+---
+## Dashboard Preview
+
+
+
+![Olist Dashboard](Olist-Ecommerce-Performance-Dashboard.png)
+
